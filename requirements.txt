@@ -1,3 +1,4 @@
-streamlit==1.26.0       # (example version; update to your specific version)
-openai==0.27.8          # (example version; check the installed version)
-pydub==0.25.1           # (example version; check the installed version)
+streamlit==1.26.0      
+openai==0.27.8        
+pydub==0.25.1         
+pillow==9.5.0
